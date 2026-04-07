@@ -1,0 +1,37 @@
+# Mega
+PROCESS-NAME,MEGAsync.exe
+DOMAIN-KEYWORD,mega
+DOMAIN,mega.nz
+
+# NPS Browser
+PROCESS-NAME,NPS Browser 0.95.exe
+
+# Unlocked Game Resources
+DOMAIN-KEYWORD,uploadhaven
+DOMAIN-KEYWORD,uploadhaven.com
+DOMAIN-KEYWORD,steamunlocked
+
+# Video Downloading Tools
+PROCESS-NAME,youtube-dl.exe
+
+# Civitai
+DOMAIN-KEYWORD,civitai
+DOMAIN,civitai.com
+
+# wkhtmlto
+PROCESS-NAME,wkhtmltoimage.exe
+PROCESS-NAME,wkhtmltopdf.exe
+
+# osu!
+DOMAIN-KEYWORD,ppy
+DOMAIN-KEYWORD,osu
+DOMAIN-KEYWORD,bm4
+DOMAIN-SUFFIX,ppy.sh
+USER-AGENT,osu*
+
+# Hugging Face
+DOMAIN-KEYWORD,huggingface
+
+# Ollama
+PROCESS-NAME,ollama.exe
+PROCESS-NAME,ollama app.exe

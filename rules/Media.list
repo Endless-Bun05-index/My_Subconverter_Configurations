@@ -1,0 +1,16 @@
+# Tencent Video
+PROCESS-NAME,QQLive.exe
+
+# GitHub Pages
+DOMAIN-SUFFIX,github.io
+
+# Bilibili TV
+DOMAIN-SUFFIX,bilibili.tv
+
+# Chrome Remote Desktop
+PROCESS-NAME,remoting_host.exe
+PROCESS-NAME,remoting_desktop.exe
+PROCESS-NAME,com.google.chromeremotedesktop
+
+# Hanime1
+DOMAIN-SUFFIX,hanime1.me
