@@ -1,0 +1,18 @@
+# Fluent Reader
+PROCESS-NAME,Fluent Reader.exe
+
+# Irreader
+PROCESS-NAME,irreader.exe
+
+# Telegram Analytics
+DOMAIN-KEYWORD,tgtw
+DOMAIN,tgtw.cc
+DOMAIN-KEYWORD,tgstat
+DOMAIN,tgstat.com
+
+# Maoxiongnet
+DOMAIN-KEYWORD,maoxiongnet
+
+# Telegraph
+DOMAIN-KEYWORD,telegra
+DOMAIN-SUFFIX,telegra.ph

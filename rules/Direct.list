@@ -1,0 +1,71 @@
+# Video Streaming Sites
+DOMAIN-KEYWORD,online
+DOMAIN-KEYWORD,vip
+
+# Manga Sites
+DOMAIN-KEYWORD,dogemanga
+
+# GMTV Service
+DOMAIN-KEYWORD,gmtv1
+
+# WeChat
+DOMAIN-KEYWORD,channels
+DOMAIN,channels.weixin.qq.com
+DOMAIN-KEYWORD,goodsunlc
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,WeChatAppEx.exe
+PROCESS-NAME,WeChatOCR.exe
+PROCESS-NAME,WeChatUtility.exe
+PROCESS-NAME,WeChatPlayer.exe
+PROCESS-NAME,WechatAppLauncher.exe
+
+# Baidunetdisk
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,baidunetdiskhost.exe
+PROCESS-NAME,yundetectservice.exe
+
+# Huorong Security
+PROCESS-NAME,HipsTray.exe
+PROCESS-NAME,HipsMain.exe
+PROCESS-NAME,HRUpdate.exe
+PROCESS-NAME,HipsLog.exe
+PROCESS-NAME,HipsDaemon.exe
+
+# BitComet
+PROCESS-NAME,BitComet.exe
+
+# QQ
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,QQScreenshot.exe
+
+# Gitee
+DOMAIN-KEYWORD,gitee
+DOMAIN,gitee.com
+
+# Hddonline
+DOMAIN-KEYWORD,hddonline
+DOMAIN,alive.hddonline.eu.org
+
+# Time Server
+DOMAIN-KEYWORD,nist
+DOMAIN,time.nist.gov
+
+# Topaz Labs
+DOMAIN-KEYWORD,topazlabs
+
+# Sing-box
+PROCESS-NAME,sing-box.exe
+
+# Xray
+PROCESS-NAME,xray.exe
+
+# Hiddify
+PROCESS-NAME,Hiddify.exe
+
+# Clash Verge
+PROCESS-NAME,verge-mihomo.exe
+PROCESS-NAME,verge-mihomo-alpha.exe
+
+# Mihomo Party
+PROCESS-NAME,mihomo.exe
+PROCESS-NAME,mihomo-alpha.exe
